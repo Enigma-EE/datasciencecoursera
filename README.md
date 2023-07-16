@@ -1,2 +1,2 @@
-# TheDataScientist-sToolbox
+# Datasciencecoursa
 JohnsHopkinsUniversity/coursera
